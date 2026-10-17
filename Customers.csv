@@ -1,0 +1,463 @@
+CustomerID,First Name,Last Name,Phone,City,State,Phone Brand,Operating System
+1,Rati,Srivastava,3756231353,jaipur,Rajasthan,OnePlus,iOS
+2,Samaira,Bhalla,9.11675E+11,Hyderabad,Telangana,Vivo,iOS
+3,Anika,Rattan,9.12761E+11,chennai,Tamil Nadu,OnePlus,Android
+4,Pari,Lalla,2799707731,ahmedabad,Gujarat,Vivo,iOS
+5,Yashvi,Sandal,9.15298E+11,Hyderabad,Telangana,Samsung,Android
+6,Samaira,Bhalla,9.11675E+11,Hyderabad,Telangana,Vivo,iOS
+7,Trisha,Rastogi,9.12487E+11,Mumbai,Maharashtra,Realme,Android
+8,Ivan,Ghosh,5381296018,bangalore,Karnataka,OnePlus,Android
+9,Yasmin,Krish,9.15508E+11,Pune,Maharashtra,OnePlus,Android
+10,Kanav,Sundaram,2784005711,bangalore,Karnataka,Realme,iOS
+11,Jayesh,Kara,9.19932E+11,Hyderabad,Telangana,Samsung,iOS
+12,Adira,Bajwa,9.10811E+11,Mumbai,Maharashtra,Xiaomi,iOS
+13,Shaan,Raval,9.10274E+11,Bangalore,Karnataka,Vivo,Android
+14,Amani,Sengupta,9.13682E+11,Hyderabad,Telangana,Realme,iOS
+15,Purab,Walla,8584235948,Ahmedabad,Gujarat,Realme,iOS
+16,Madhav,Sawhney,9.10746E+11,bangalore,Karnataka,OnePlus,Android
+17,Advika,Krishna,9.13091E+11,jaipur,Rajasthan,Vivo,iOS
+18,Zaina,Uppal,705192554,Kolkata,West Bengal,Realme,iOS
+19,Jhanvi,Soman,230999916,delhi,Delhi,OnePlus,Android
+20,Shaan,Raval,9.10274E+11,Bangalore,Karnataka,Vivo,Android
+21,Adira,Upadhyay,9846063570,bangalore,Karnataka,Samsung,iOS
+22,Dharmajan,Shroff,8309549999,Jaipur,Rajasthan,OnePlus,Android
+23,Dhanush,Atwal,919306217,Hyderabad,Telangana,OnePlus,iOS
+24,Samiha,Raju,9.18193E+11,Mumbai,Maharashtra,Xiaomi,Android
+25,Vedika,Sankaran,505040926,Surat,Gujarat,Samsung,iOS
+26,Vritika,Baria,9.15997E+11,hyderabad,Telangana,Samsung,iOS
+27,Suhana,Baral,470772594,Kolkata,West Bengal,Realme,Android
+28,Arhaan,Banik,3157494404,delhi,Delhi,Samsung,iOS
+29,Arnav,Jani,7019280347,Chennai,Tamil Nadu,Samsung,iOS
+30,Mishti,Keer,9.18925E+11,Chennai,Tamil Nadu,OnePlus,Android
+31,Samar,Soni,6491597909,Mumbai,Maharashtra,Xiaomi,Android
+32,Yuvraj ,Raval,7466224730,Jaipur,Rajasthan,Apple,Android
+33,Jiya,Borra,2625311097,Surat,Gujarat,Samsung,Android
+34,Riya,Sunder,3683627068,Kolkata,West Bengal,Vivo,Android
+35,Ira,Kapoor,826772649,pune,Maharashtra,Apple,iOS
+36,Samar,Apte,9.10505E+11,Pune,Maharashtra,Realme,Android
+37,Taimur,Choudhary,5260976179,pune,Maharashtra,Vivo,Android
+38,Siya,Borah,1100884229,pune,Maharashtra,Xiaomi,Android
+39,Kabir,Gera,6790386181,Surat,Gujarat,Apple,iOS
+40,Trisha,Talwar,9.11457E+11,Delhi,Delhi,Samsung,Android
+41,Raghav,Banerjee,9.18099E+11,Mumbai,Maharashtra,Realme,Android
+42,Onkar,Agate,1967484692,jaipur,Rajasthan,Realme,Android
+43,Aarna,Barman,4644875653,Hyderabad,Telangana,Realme,iOS
+44,Jayant,Gole,5140641217,surat,Gujarat,Realme,Android
+45,Yakshit,Arya,7418310715,bangalore,Karnataka,Vivo,iOS
+46,Siya,Borah,1100884229,pune,Maharashtra,Xiaomi,Android
+47,Alisha,Ratta,9.18472E+11,Ahmedabad,Gujarat,Xiaomi,Android
+48,Ivan,Atwal,7450594309,surat,Gujarat,Samsung,Android
+49,Shalv,Trivedi,5441595285,Pune,Maharashtra,Vivo,Android
+50,Khushi,Ahluwalia,8447011346,Bangalore,Karnataka,Realme,Android
+51,Shayak,Bhargava,9.16916E+11,hyderabad,Telangana,OnePlus,Android
+52,Zoya,Chauhan,2593240293,delhi,Delhi,Apple,iOS
+53,Badal,Chakraborty,9160379603,Jaipur,Rajasthan,Apple,iOS
+54,Diya,Bassi,3867244208,Jaipur,Rajasthan,Apple,Android
+55,Kimaya,Tiwari,2453492556,bangalore,Karnataka,Xiaomi,iOS
+56,Rati,Lad,9.16119E+11,Pune,Maharashtra,Realme,Android
+57,Samarth,Warrior,9.13951E+11,mumbai,Maharashtra,Xiaomi,Android
+58,Hridaan,Lad,8474600294,Chennai,Tamil Nadu,Samsung,iOS
+59,Manjari,Sharma,9249310037,jaipur,Rajasthan,Samsung,Android
+60,Krish,Babu,9196544518,Jaipur,Rajasthan,Vivo,iOS
+61,Shalv,Gupta,865658155,jaipur,Rajasthan,Vivo,Android
+62,Kimaya,Tiwari,2453492556,bangalore,Karnataka,Xiaomi,iOS
+63,Rati,Lad,9.16119E+11,Pune,Maharashtra,Realme,Android
+64,Chirag,Andra,5862988446,Mumbai,Maharashtra,Apple,Android
+65,Urvi,Shanker,9.19214E+11,Delhi,Delhi,Apple,Android
+66,Tejas,Shroff,8990804888,pune,Maharashtra,Apple,Android
+67,Krish,Walla,2739914676,Hyderabad,Telangana,Apple,Android
+68,Kartik,Sinha,9.13838E+11,chennai,Tamil Nadu,OnePlus,iOS
+69,Vritika,Ramachandran,9.14623E+11,kolkata,West Bengal,Xiaomi,iOS
+70,Aaryahi,Sahni,4305027376,surat,Gujarat,Xiaomi,iOS
+71,Kaira,Choudhury,9949134549,bangalore,Karnataka,Vivo,Android
+72,Bhavin,Thakur,9.1285E+11,Chennai,Tamil Nadu,OnePlus,iOS
+73,Zeeshan,Wagle,4480113761,ahmedabad,Gujarat,OnePlus,Android
+74,Baiju,Sachdeva,4749707472,delhi,Delhi,Samsung,iOS
+75,Indrajit,Kapur,230040498,hyderabad,Telangana,Realme,iOS
+76,Vardaniya,Chauhan,6633666312,Chennai,Tamil Nadu,OnePlus,Android
+77,Siya,Kunda,965003471,delhi,Delhi,OnePlus,Android
+78,Ranbir,Bhavsar,9.17431E+11,delhi,Delhi,Samsung,Android
+79,Tiya,Aurora,2235678417,hyderabad,Telangana,OnePlus,Android
+80,Shamik,Magar,247706285,Kolkata,West Bengal,Samsung,Android
+81,Aayush,Verma,9.17961E+11,surat,Gujarat,Realme,iOS
+82,Divij,Chander,4398165607,surat,Gujarat,Xiaomi,Android
+83,Ishaan,Wagle,9.14413E+11,jaipur,Rajasthan,Samsung,Android
+84,Kabir,Garg,7456097650,Mumbai,Maharashtra,Vivo,iOS
+85,Sumer,Krish,4988944955,pune,Maharashtra,Xiaomi,iOS
+86,Piya,Dhillon,9.17694E+11,Jaipur,Rajasthan,Apple,Android
+87,Eshani,Iyer,3018205633,jaipur,Rajasthan,Apple,Android
+88,Raghav,Varughese,6799761518,bangalore,Karnataka,OnePlus,Android
+89,Pari,Halder,9.11207E+11,Surat,Gujarat,Apple,Android
+90,Dharmajan,Chawla,7725720303,kolkata,West Bengal,OnePlus,Android
+91,Zain,Buch,2441509430,surat,Gujarat,Realme,iOS
+92,Shanaya,Baral,996396432,Bangalore,Karnataka,Realme,Android
+93,Dhruv,Halder,6555552235,kolkata,West Bengal,Apple,Android
+94,Piya,Guha,9.14204E+11,Chennai,Tamil Nadu,Xiaomi,iOS
+95,Ojas,Jha,9.10681E+11,jaipur,Rajasthan,OnePlus,Android
+96,Piya,Dhillon,9.17694E+11,Jaipur,Rajasthan,Apple,Android
+97,Eshani,Iyer,3018205633,jaipur,Rajasthan,Apple,Android
+98,Raghav,Varughese,6799761518,bangalore,Karnataka,OnePlus,Android
+99,Pari,Halder,9.11207E+11,Surat,Gujarat,Apple,Android
+100,Dharmajan,Chawla,7725720303,kolkata,West Bengal,OnePlus,Android
+101,Shayak,Hari,4790297507,Jaipur,Rajasthan,OnePlus,iOS
+102,Stuvan,Mand,3952956610,Bangalore,Karnataka,Vivo,iOS
+103,Hunar,Behl,9.18087E+11,surat,Gujarat,Apple,Android
+104,Lakshay,Walla,4049871432,Pune,Maharashtra,Vivo,iOS
+105,Eshani,Saini,1546623667,Surat,Gujarat,Samsung,iOS
+106,Azad,Swaminathan,1221119855,bangalore,Karnataka,Samsung,Android
+107,Riya,Dubey,4493376918,mumbai,Maharashtra,OnePlus,Android
+108,Taimur,Kala,8840018999,Chennai,Tamil Nadu,Realme,iOS
+109,Miraan,Borra,9.17209E+11,Mumbai,Maharashtra,Vivo,Android
+110,Yakshit,Sibal,9677530729,Mumbai,Maharashtra,Vivo,iOS
+111,Riaan,Dhingra,9.19292E+11,ahmedabad,Gujarat,Apple,iOS
+112,Manikya,Madan,9.1985E+11,kolkata,West Bengal,Vivo,Android
+113,Kashvi,Dara,9.15216E+11,surat,Gujarat,Samsung,iOS
+114,Vritika,Sha,5883076498,Mumbai,Maharashtra,Samsung,iOS
+115,Drishya,Rama,6851604856,ahmedabad,Gujarat,Vivo,iOS
+116,Taimur,Rajan,9.1141E+11,bangalore,Karnataka,Xiaomi,Android
+117,Amani,Mane,9.11601E+11,Pune,Maharashtra,Realme,Android
+118,Taimur,Kala,8840018999,Chennai,Tamil Nadu,Realme,iOS
+119,Miraan,Borra,9.17209E+11,Mumbai,Maharashtra,Vivo,Android
+120,Yakshit,Sibal,9677530729,Mumbai,Maharashtra,Vivo,iOS
+121,Riaan,Dhingra,9.19292E+11,ahmedabad,Gujarat,Apple,iOS
+122,Hridaan,Dada,5996025814,Jaipur,Rajasthan,Apple,iOS
+123,Lagan,Kalita,5878385425,chennai,Tamil Nadu,Samsung,Android
+124,Nehmat,Jha,9.131E+11,kolkata,West Bengal,Xiaomi,Android
+125,Kavya,Hans,4138503831,bangalore,Karnataka,Realme,iOS
+126,Riaan,Baral,4030530526,Jaipur,Rajasthan,Realme,iOS
+127,Shamik,Sur,9.14082E+11,ahmedabad,Gujarat,OnePlus,Android
+128,Jayesh,Shenoy,1134246272,kolkata,West Bengal,OnePlus,iOS
+129,Kashvi,Kannan,4100599429,Pune,Maharashtra,Xiaomi,Android
+130,Saira,Korpal,6021464236,Pune,Maharashtra,Realme,iOS
+131,Divij,Mannan,2590311094,chennai,Tamil Nadu,OnePlus,iOS
+132,Ahana ,Solanki,2927246376,hyderabad,Telangana,Vivo,iOS
+133,Ahana ,Sahota,6508053179,surat,Gujarat,Xiaomi,iOS
+134,Vidur,Tella,2572981665,Ahmedabad,Gujarat,Apple,iOS
+135,Seher,Shah,9434161949,hyderabad,Telangana,Realme,Android
+136,Zara,Bobal,9.18879E+11,Jaipur,Rajasthan,Apple,iOS
+137,Pari,Walla,9.14071E+11,Chennai,Tamil Nadu,Samsung,Android
+138,Prerak,Dixit,9842128786,Jaipur,Rajasthan,OnePlus,Android
+139,Jivika,Iyengar,9.1971E+11,Delhi,Delhi,OnePlus,iOS
+140,Saira,Devi,9.15599E+11,Kolkata,West Bengal,Xiaomi,iOS
+141,Tushar,Doctor,9.1855E+11,Delhi,Delhi,Apple,Android
+142,Azad,Contractor,2940924677,delhi,Delhi,Vivo,Android
+143,Tejas,Bains,9.12738E+11,hyderabad,Telangana,Realme,iOS
+144,Nirvi,Dutt,5477449902,kolkata,West Bengal,Realme,Android
+145,Yashvi,Deshmukh,9.1106E+11,delhi,Delhi,Xiaomi,iOS
+146,Jiya,Chandran,9.18597E+11,Ahmedabad,Gujarat,OnePlus,iOS
+147,Eshani,Gole,2043942453,Mumbai,Maharashtra,Apple,iOS
+148,Nayantara,Lalla,6371275222,Mumbai,Maharashtra,Xiaomi,Android
+149,Romil,Singhal,9.13652E+11,Ahmedabad,Gujarat,Samsung,iOS
+150,Divyansh,Dhar,2708394868,Jaipur,Rajasthan,Realme,Android
+151,Rati,Lata,2874630885,Bangalore,Karnataka,Samsung,iOS
+152,Vidur,Chaudhuri,8257348670,surat,Gujarat,Xiaomi,Android
+153,Lakshay,Dugar,9.13237E+11,Surat,Gujarat,Realme,iOS
+154,Eva,Borra,6374682824,jaipur,Rajasthan,Xiaomi,iOS
+155,Indrajit,Raju,3924828596,bangalore,Karnataka,Xiaomi,Android
+156,Ritvik,Vasa,2817960726,Hyderabad,Telangana,Realme,Android
+157,Tara,Kumar,8910509675,Jaipur,Rajasthan,OnePlus,iOS
+158,Baiju,Vora,5345535647,Delhi,Delhi,Realme,iOS
+159,Tanya,Shetty,9.10998E+11,jaipur,Rajasthan,Xiaomi,iOS
+160,Sana,Kalla,5342784570,Pune,Maharashtra,Apple,Android
+161,Indrajit,Dhar,1226722914,Pune,Maharashtra,Xiaomi,Android
+162,Yuvaan,Thaker,7106375365,ahmedabad,Gujarat,Vivo,Android
+163,Pihu,Dora,8966050539,kolkata,West Bengal,Xiaomi,iOS
+164,Ahana ,Shenoy,7959186281,pune,Maharashtra,Samsung,iOS
+165,Aaryahi,Lad,8712109094,Kolkata,West Bengal,Apple,Android
+166,Renee,Hayer,6551310965,Chennai,Tamil Nadu,Apple,iOS
+167,Vanya,Sawhney,328517971,Chennai,Tamil Nadu,Samsung,iOS
+168,Charvi,Srivastava,6171652329,Mumbai,Maharashtra,Xiaomi,Android
+169,Hazel,Devi,5781067875,chennai,Tamil Nadu,OnePlus,iOS
+170,Indrajit,Golla,9.1297E+11,Hyderabad,Telangana,OnePlus,iOS
+171,Biju,Chahal,5374818423,Mumbai,Maharashtra,Xiaomi,iOS
+172,Pari,Bera,9.1903E+11,Mumbai,Maharashtra,Samsung,Android
+173,Alisha,Dave,9.11913E+11,Kolkata,West Bengal,Realme,Android
+174,Darshit,Batra,5520559463,ahmedabad,Gujarat,Vivo,Android
+175,Miraan,Sahni,5443738594,Pune,Maharashtra,Vivo,iOS
+176,Ranbir,Bedi,2561400590,ahmedabad,Gujarat,Realme,iOS
+177,Alia,Warrior,7317221739,Jaipur,Rajasthan,Realme,iOS
+178,Samaira,Agate,1527063366,Surat,Gujarat,Apple,Android
+179,Aarush,Suresh,7726213291,Mumbai,Maharashtra,Xiaomi,Android
+180,Mishti,Ratti,9.14702E+11,Mumbai,Maharashtra,OnePlus,Android
+181,Pihu,Borah,9.13975E+11,Ahmedabad,Gujarat,Samsung,iOS
+182,Nayantara,Karan,5871351200,Ahmedabad,Gujarat,Xiaomi,iOS
+183,Aarush,Tank,2425340174,jaipur,Rajasthan,Apple,iOS
+184,Samaira,Agate,1527063366,Surat,Gujarat,Apple,Android
+185,Aarush,Suresh,7726213291,Mumbai,Maharashtra,Xiaomi,Android
+186,Aayush,Shankar,4722452187,kolkata,West Bengal,Vivo,Android
+187,Ivana,Madan,9964692602,Ahmedabad,Gujarat,Vivo,Android
+188,Kaira,Bhalla,9.10856E+11,Delhi,Delhi,Apple,iOS
+189,Kabir,Bhargava,9.14614E+11,jaipur,Rajasthan,OnePlus,iOS
+190,Ranbir,Sankaran,535349577,kolkata,West Bengal,OnePlus,iOS
+191,Tara,Ben,1697660639,Ahmedabad,Gujarat,Realme,iOS
+192,Shray,Halder,3509846183,surat,Gujarat,Apple,Android
+193,Adira,Chaudhuri,9.17236E+11,Jaipur,Rajasthan,Samsung,iOS
+194,Darshit,Anne,9.18826E+11,delhi,Delhi,Vivo,iOS
+195,Myra,Wali,9.17766E+11,ahmedabad,Gujarat,Samsung,iOS
+196,Tara,Goyal,6447248904,Jaipur,Rajasthan,OnePlus,iOS
+197,Onkar,Virk,3153039541,Chennai,Tamil Nadu,Realme,Android
+198,Renee,Wason,3310528798,chennai,Tamil Nadu,Vivo,Android
+199,Shamik,Mahal,6432544961,Kolkata,West Bengal,Xiaomi,iOS
+200,Hansh,Suresh,6806405231,hyderabad,Telangana,Samsung,Android
+201,Darshit,Anne,9.18826E+11,delhi,Delhi,Vivo,iOS
+202,Myra,Wali,9.17766E+11,ahmedabad,Gujarat,Samsung,iOS
+203,Shamik,Char,9.15507E+11,pune,Maharashtra,Realme,Android
+204,Ela,Virk,9.14048E+11,Surat,Gujarat,OnePlus,iOS
+205,Anya,Setty,6699394173,Surat,Gujarat,Apple,iOS
+206,Arnav,Chad,4796774519,jaipur,Rajasthan,Vivo,iOS
+207,Riaan,Halder,5002440735,Jaipur,Rajasthan,OnePlus,iOS
+208,Vardaniya,Manne,918921376,Chennai,Tamil Nadu,Xiaomi,iOS
+209,Parinaaz,Sachdeva,2229784785,mumbai,Maharashtra,Apple,iOS
+210,Shlok,Bail,9.13449E+11,chennai,Tamil Nadu,Samsung,Android
+211,Hiran,Kala,919239271,kolkata,West Bengal,Apple,iOS
+212,Shamik,Mander,662280475,surat,Gujarat,Vivo,iOS
+213,Ritvik,Kapoor,9.10359E+11,hyderabad,Telangana,Realme,iOS
+214,Jiya,Chaudhary,2829240742,hyderabad,Telangana,OnePlus,iOS
+215,Seher,Bandi,9.18002E+11,chennai,Tamil Nadu,Xiaomi,iOS
+216,Shamik,Varkey,6234289042,Surat,Gujarat,Vivo,Android
+217,Anvi,Dhaliwal,9.14567E+11,ahmedabad,Gujarat,Realme,iOS
+218,Khushi,Bora,6123598039,delhi,Delhi,Xiaomi,Android
+219,Zain,Talwar,6196516293,mumbai,Maharashtra,Xiaomi,Android
+220,Piya,Saha,4095752875,bangalore,Karnataka,Xiaomi,Android
+221,Jayan,Bir,9.17633E+11,Kolkata,West Bengal,Xiaomi,iOS
+222,Azad,Wagle,3280569770,Pune,Maharashtra,OnePlus,Android
+223,Pranay,Roy,4383678248,ahmedabad,Gujarat,Realme,iOS
+224,Hunar,Bahl,9.11478E+11,Mumbai,Maharashtra,Apple,Android
+225,Biju,Sachdeva,73463143,kolkata,West Bengal,Apple,Android
+226,Kashvi,Doshi,634883928,Pune,Maharashtra,Xiaomi,Android
+227,Sana,Bail,1823083276,kolkata,West Bengal,Samsung,Android
+228,Trisha,Batra,4224313638,Bangalore,Karnataka,Samsung,iOS
+229,Biju,Bhat,7727354885,Chennai,Tamil Nadu,Xiaomi,Android
+230,Suhana,Brahmbhatt,7948865741,Jaipur,Rajasthan,Xiaomi,Android
+231,Arhaan,Ratta,9.19932E+11,Surat,Gujarat,Xiaomi,Android
+232,Ojas,Shenoy,3163718931,Mumbai,Maharashtra,Vivo,iOS
+233,Akarsh,Sagar,9.17655E+11,Ahmedabad,Gujarat,Vivo,iOS
+234,Kaira,Mander,9.11487E+11,Ahmedabad,Gujarat,Xiaomi,iOS
+235,Kaira,Bansal,900794135,mumbai,Maharashtra,Samsung,iOS
+236,Tejas,Deshmukh,9.13472E+11,hyderabad,Telangana,OnePlus,iOS
+237,Uthkarsh,Bhavsar,2020250868,Surat,Gujarat,Samsung,Android
+238,Neelofar,Kar,8858978233,chennai,Tamil Nadu,Apple,iOS
+239,Samarth,Vohra,9.11227E+11,Chennai,Tamil Nadu,Vivo,Android
+240,Dhanuk,Konda,7869837416,Surat,Gujarat,Realme,Android
+241,Tiya,Balan,9.16893E+11,Bangalore,Karnataka,Apple,Android
+242,Keya,Goda,5341670701,kolkata,West Bengal,Vivo,Android
+243,Eva,Bhatnagar,5913450115,surat,Gujarat,OnePlus,Android
+244,Aaryahi,Johal,9.12519E+11,ahmedabad,Gujarat,Realme,Android
+245,Lagan,Vig,7582396018,Ahmedabad,Gujarat,Samsung,iOS
+246,Jiya,Kanda,256336694,Ahmedabad,Gujarat,Samsung,iOS
+247,Gatik,Bora,9.18957E+11,Kolkata,West Bengal,Vivo,Android
+248,Adah,Karpe,9.14262E+11,Surat,Gujarat,Xiaomi,iOS
+249,Faiyaz,Barman,9.1287E+11,Jaipur,Rajasthan,Apple,iOS
+250,Kimaya,Viswanathan,1539983902,Chennai,Tamil Nadu,OnePlus,Android
+251,Tejas,Kaur,9.14745E+11,Kolkata,West Bengal,Apple,iOS
+252,Riaan,Behl,4590916622,delhi,Delhi,OnePlus,iOS
+253,Divyansh,Gala,1655629622,Chennai,Tamil Nadu,Vivo,iOS
+254,Kartik,D’Alia,7958126091,pune,Maharashtra,Apple,Android
+255,Indranil,Setty,9.15193E+11,jaipur,Rajasthan,Xiaomi,Android
+256,Hazel,Gulati,678057533,delhi,Delhi,Samsung,Android
+257,Farhan,Anne,9483521782,Delhi,Delhi,Vivo,Android
+258,Khushi,Upadhyay,923248314,kolkata,West Bengal,Realme,Android
+259,Khushi,Sahni,9.11828E+11,pune,Maharashtra,Xiaomi,Android
+260,Pihu,Bains,896528597,pune,Maharashtra,Xiaomi,Android
+261,Kartik,Tailor,2827262468,jaipur,Rajasthan,Realme,iOS
+262,Jayesh,Bali,9.14024E+11,surat,Gujarat,Vivo,Android
+263,Keya,Tandon,9.12612E+11,Bangalore,Karnataka,OnePlus,iOS
+264,Hunar,Hora,7679546375,Kolkata,West Bengal,Xiaomi,Android
+265,Siya,Goda,5598251131,bangalore,Karnataka,Realme,Android
+266,Tiya,Golla,9.15324E+11,Hyderabad,Telangana,Vivo,Android
+267,Lakshit,Reddy,6910728095,Mumbai,Maharashtra,OnePlus,iOS
+268,Navya,Kuruvilla,9.13719E+11,surat,Gujarat,Realme,Android
+269,Krish,Manne,6338996369,Ahmedabad,Gujarat,OnePlus,Android
+270,Misha,Hegde,9513352593,Jaipur,Rajasthan,OnePlus,Android
+271,Farhan,Anne,9483521782,Delhi,Delhi,Vivo,Android
+272,Khushi,Upadhyay,923248314,kolkata,West Bengal,Realme,Android
+273,Khushi,Sahni,9.11828E+11,pune,Maharashtra,Xiaomi,Android
+274,Pihu,Bains,896528597,pune,Maharashtra,Xiaomi,Android
+275,Kartik,Tailor,2827262468,jaipur,Rajasthan,Realme,iOS
+276,Jayesh,Bali,9.14024E+11,surat,Gujarat,Vivo,Android
+277,Keya,Tandon,9.12612E+11,Bangalore,Karnataka,OnePlus,iOS
+278,Hunar,Hora,7679546375,Kolkata,West Bengal,Xiaomi,Android
+279,Taran,Bera,9.18442E+11,Surat,Gujarat,Realme,Android
+280,Arhaan,Sachdeva,7116681528,chennai,Tamil Nadu,Xiaomi,Android
+281,Hunar,Sarkar,3164265007,Pune,Maharashtra,Xiaomi,iOS
+282,Biju,Datta,9.15264E+11,pune,Maharashtra,Samsung,Android
+283,Divij,Mandal,8971099949,Delhi,Delhi,Realme,iOS
+284,Pari,Khanna,9.15822E+11,delhi,Delhi,Apple,Android
+285,Veer,Kota,3502356115,Bangalore,Karnataka,Realme,iOS
+286,Neelofar,Krish,9964100098,Kolkata,West Bengal,Vivo,iOS
+287,Biju,Sama,9.19784E+11,jaipur,Rajasthan,OnePlus,Android
+288,Elakshi,Keer,7768871683,pune,Maharashtra,OnePlus,iOS
+289,Dhanush,Dora,2706765180,Hyderabad,Telangana,Realme,Android
+290,Kabir,Krish,9.11206E+11,Hyderabad,Telangana,Samsung,iOS
+291,Lakshay,Deol,6718481757,Pune,Maharashtra,Xiaomi,Android
+292,Kaira,Shere,9.16283E+11,pune,Maharashtra,Realme,iOS
+293,Parinaaz,Mani,9.16972E+11,pune,Maharashtra,Xiaomi,Android
+294,Jivika,Kade,535406286,mumbai,Maharashtra,Xiaomi,iOS
+295,Mishti,Kamdar,5974850891,pune,Maharashtra,Vivo,Android
+296,Kaira,Kale,2164651760,bangalore,Karnataka,Vivo,Android
+297,Saanvi,Rao,6700659643,bangalore,Karnataka,Xiaomi,Android
+298,Aniruddh,Kari,8616174965,kolkata,West Bengal,Realme,iOS
+299,Zaina,Swaminathan,3048669689,jaipur,Rajasthan,Apple,iOS
+300,Mamooty,Swaminathan,6782627444,surat,Gujarat,OnePlus,iOS
+301,Suhana,Dhar,2531655846,pune,Maharashtra,Realme,Android
+302,Ojas,Ganguly,7868592231,delhi,Delhi,Realme,iOS
+303,Aaina,Ramesh,9.17405E+11,mumbai,Maharashtra,Vivo,iOS
+304,Eshani,Kumer,5850212339,Bangalore,Karnataka,Vivo,iOS
+305,Pari,Rau,3011750093,Jaipur,Rajasthan,Realme,Android
+306,Vanya,Dyal,9.19478E+11,surat,Gujarat,Realme,iOS
+307,Samar,Sahota,2610255605,mumbai,Maharashtra,Realme,iOS
+308,Zoya,Swamy,9.16922E+11,hyderabad,Telangana,Vivo,Android
+309,Rhea,Sura,2520195136,Delhi,Delhi,Apple,Android
+310,Armaan,Acharya,9.1844E+11,Delhi,Delhi,Realme,iOS
+311,Saira,Kamdar,9.10434E+11,Delhi,Delhi,Samsung,iOS
+312,Aradhya,Thaman,9.10286E+11,Kolkata,West Bengal,Apple,iOS
+313,Kiaan,Dugar,7236913392,hyderabad,Telangana,Realme,Android
+314,Dhruv,Varty,9.14754E+11,surat,Gujarat,OnePlus,iOS
+315,Jayant,Seth,5325651351,Hyderabad,Telangana,Vivo,Android
+316,Manjari,Kadakia,5857817458,bangalore,Karnataka,Xiaomi,iOS
+317,Hridaan,Doctor,1788280687,Mumbai,Maharashtra,Realme,iOS
+318,Taran,Balakrishnan,4910201453,Chennai,Tamil Nadu,Xiaomi,Android
+319,Priyansh,Chanda,9.14417E+11,Bangalore,Karnataka,OnePlus,iOS
+320,Kiaan,Rao,8563547724,Mumbai,Maharashtra,Samsung,Android
+321,Prerak,Sane,1591770615,Surat,Gujarat,OnePlus,iOS
+322,Eshani,Mammen,725741549,Hyderabad,Telangana,OnePlus,iOS
+323,Jayesh,Sule,7078108581,jaipur,Rajasthan,Xiaomi,iOS
+324,Damini,Sampath,3372552788,delhi,Delhi,Xiaomi,Android
+325,Abram,Gulati,4714416162,chennai,Tamil Nadu,OnePlus,iOS
+326,Ranbir,Baria,9.10824E+11,Bangalore,Karnataka,OnePlus,iOS
+327,Reyansh,Hans,9.13181E+11,jaipur,Rajasthan,Xiaomi,iOS
+328,Tanya,Bhattacharyya,1031913573,delhi,Delhi,Apple,Android
+329,Chirag,Chowdhury,3476546896,chennai,Tamil Nadu,OnePlus,iOS
+330,Amani,Hegde,6314192103,Bangalore,Karnataka,OnePlus,iOS
+331,Misha,Mann,1767799004,mumbai,Maharashtra,Samsung,Android
+332,Aaina,Wadhwa,350261991,kolkata,West Bengal,Samsung,Android
+333,Anvi,Tak,9.14268E+11,Mumbai,Maharashtra,OnePlus,iOS
+334,Kanav,Rastogi,8452360986,Kolkata,West Bengal,Samsung,iOS
+335,Kaira,Ravel,9.15538E+11,surat,Gujarat,Realme,Android
+336,Prerak,Dhingra,8642918813,Chennai,Tamil Nadu,Xiaomi,Android
+337,Umang,Iyengar,9.14318E+11,Chennai,Tamil Nadu,Samsung,Android
+338,Romil,Amble,9.12987E+11,bangalore,Karnataka,Samsung,Android
+339,Suhana,Dhawan,9645558950,jaipur,Rajasthan,Xiaomi,Android
+340,Shayak,Das,9.14204E+11,pune,Maharashtra,Apple,iOS
+341,Arhaan,Kar,9.18623E+11,Delhi,Delhi,Vivo,Android
+342,Aarna,Kale,4315460594,delhi,Delhi,Vivo,iOS
+343,Vedika,Saraf,8559376505,Jaipur,Rajasthan,Vivo,Android
+344,Navya,Subramanian,9.18602E+11,jaipur,Rajasthan,Xiaomi,iOS
+345,Raunak,Lall,9.13665E+11,Kolkata,West Bengal,Samsung,iOS
+346,Hunar,Buch,2664374631,Hyderabad,Telangana,Realme,iOS
+347,Zaina,Chaudhuri,9.15444E+11,Kolkata,West Bengal,Apple,iOS
+348,Nehmat,Mahal,9.15408E+11,Jaipur,Rajasthan,Vivo,iOS
+349,Abram,Shukla,8206413806,chennai,Tamil Nadu,Apple,Android
+350,Neysa,Bahl,5996979229,Bangalore,Karnataka,Vivo,iOS
+351,Vaibhav,Bassi,9.17727E+11,Kolkata,West Bengal,Realme,iOS
+352,Rohan,Issac,4516284655,Mumbai,Maharashtra,Apple,iOS
+353,Gokul,Chandran,9.12133E+11,chennai,Tamil Nadu,Xiaomi,Android
+354,Armaan,Wason,9.11436E+11,Jaipur,Rajasthan,Realme,iOS
+355,Khushi,Biswas,3504806258,kolkata,West Bengal,Samsung,iOS
+356,Indranil,Ramakrishnan,1943795824,delhi,Delhi,OnePlus,Android
+357,Yakshit,Barad,8135423877,Pune,Maharashtra,Vivo,Android
+358,Shayak,Walia,9.15936E+11,Ahmedabad,Gujarat,Samsung,Android
+359,Nirvaan,Bobal,5539147400,chennai,Tamil Nadu,Realme,iOS
+360,Heer,Sankaran,5408840501,pune,Maharashtra,OnePlus,Android
+361,Ivan,Bhardwaj,8019963902,bangalore,Karnataka,Xiaomi,iOS
+362,Vihaan,Karan,5943793031,Chennai,Tamil Nadu,Xiaomi,Android
+363,Nirvaan,Dhawan,9450117252,Pune,Maharashtra,Apple,Android
+364,Fateh,Vala,4431445116,ahmedabad,Gujarat,Vivo,Android
+365,Khushi,Salvi,9.17533E+11,ahmedabad,Gujarat,Apple,Android
+366,Yasmin,Vala,9.11381E+11,chennai,Tamil Nadu,OnePlus,iOS
+367,Damini,Bansal,9839898188,Mumbai,Maharashtra,Vivo,iOS
+368,Umang,Kadakia,1048084273,Hyderabad,Telangana,Samsung,Android
+369,Nitara,Basak,9.11832E+11,mumbai,Maharashtra,Xiaomi,Android
+370,Lakshay,Kadakia,9.13258E+11,Mumbai,Maharashtra,Vivo,iOS
+371,Siya,Rao,8932432977,surat,Gujarat,Samsung,iOS
+372,Dishani,Raman,9.16447E+11,kolkata,West Bengal,Vivo,iOS
+373,Madhup,Rajagopalan,2789119624,Mumbai,Maharashtra,Vivo,Android
+374,Nehmat,Mangal,9417020166,bangalore,Karnataka,Xiaomi,Android
+375,Oorja,Devan,9410904998,Ahmedabad,Gujarat,Vivo,iOS
+376,Saksham,Deep,5835960035,jaipur,Rajasthan,Vivo,iOS
+377,Nehmat,Bhasin,9.12055E+11,mumbai,Maharashtra,Xiaomi,iOS
+378,Samar,Sane,4221398195,Jaipur,Rajasthan,Xiaomi,iOS
+379,Arhaan,Mand,9.10919E+11,Chennai,Tamil Nadu,Apple,iOS
+380,Yuvaan,Devan,3120447655,Kolkata,West Bengal,Apple,iOS
+381,Inaaya ,Deo,2544115101,Kolkata,West Bengal,OnePlus,iOS
+382,Alia,Thaman,9.1236E+11,ahmedabad,Gujarat,Xiaomi,Android
+383,Vedika,Tata,2023688453,Kolkata,West Bengal,OnePlus,Android
+384,Vidur,Kumar,9.11927E+11,Kolkata,West Bengal,Realme,iOS
+385,Ira,Chand,2160114527,Kolkata,West Bengal,Realme,iOS
+386,Riaan,Madan,9.1583E+11,kolkata,West Bengal,Apple,iOS
+387,Yashvi,Chauhan,1645955989,Bangalore,Karnataka,Realme,Android
+388,Ayesha,Sampath,5970282717,Ahmedabad,Gujarat,Apple,iOS
+389,Samarth,Srivastava,887718286,kolkata,West Bengal,Vivo,iOS
+390,Ira,Shan,9.17775E+11,chennai,Tamil Nadu,OnePlus,iOS
+391,Tiya,Issac,9.1727E+11,jaipur,Rajasthan,Realme,Android
+392,Taran,Acharya,9.16699E+11,pune,Maharashtra,Vivo,Android
+393,Baiju,Bhardwaj,9.1572E+11,Bangalore,Karnataka,Samsung,Android
+394,Ira,Mall,9.16372E+11,kolkata,West Bengal,OnePlus,Android
+395,Eshani,Banik,7159570871,Chennai,Tamil Nadu,Realme,iOS
+396,Kaira,Sarkar,1618831380,Ahmedabad,Gujarat,Xiaomi,Android
+397,Nitya,Dhawan,6402088244,Ahmedabad,Gujarat,Samsung,iOS
+398,Damini,Jha,4742277672,jaipur,Rajasthan,Xiaomi,Android
+399,Nehmat,Dutt,9991002163,ahmedabad,Gujarat,Samsung,Android
+400,Suhana,Kohli,3716278665,Kolkata,West Bengal,Realme,Android
+401,Farhan,Varty,9.13786E+11,delhi,Delhi,Samsung,Android
+402,Abram,Guha,8772500955,Chennai,Tamil Nadu,Xiaomi,iOS
+403,Renee,Chaudhry,2151940686,pune,Maharashtra,Samsung,Android
+404,Tanya,Chaudhary,9.10702E+11,surat,Gujarat,OnePlus,iOS
+405,Diya,Shroff,6045341119,hyderabad,Telangana,Apple,Android
+406,Alisha,Iyengar,9.17362E+11,Hyderabad,Telangana,OnePlus,Android
+407,Aniruddh,Kaul,8884706986,Ahmedabad,Gujarat,OnePlus,iOS
+408,Nehmat,Hora,7259289856,Ahmedabad,Gujarat,Vivo,iOS
+409,Yuvaan,Chakrabarti,7251869056,Pune,Maharashtra,Realme,iOS
+410,Farhan,Thaman,9043914698,Delhi,Delhi,Xiaomi,iOS
+411,Arhaan,Chawla,3041046840,kolkata,West Bengal,Xiaomi,iOS
+412,Siya,Jhaveri,486594172,Pune,Maharashtra,OnePlus,iOS
+413,Shaan,Balay,9.19214E+11,Jaipur,Rajasthan,Realme,iOS
+414,Anahi,Mangat,4438112642,surat,Gujarat,Realme,iOS
+415,Yashvi,Bal,9.10893E+11,jaipur,Rajasthan,Xiaomi,iOS
+416,Dhruv,Ganesan,5408042248,hyderabad,Telangana,Realme,Android
+417,Nishith,Goyal,4366707094,Bangalore,Karnataka,Xiaomi,iOS
+418,Tarini,Sur,5216097738,delhi,Delhi,Samsung,iOS
+419,Dishani,Rege,7291433492,Delhi,Delhi,Realme,iOS
+420,Divij,Sandhu,8139421427,chennai,Tamil Nadu,Apple,Android
+421,Neelofar,Balay,8685935806,Ahmedabad,Gujarat,Vivo,Android
+422,Rania,Tiwari,8723885073,chennai,Tamil Nadu,Vivo,iOS
+423,Shamik,Mangal,6127688409,Kolkata,West Bengal,Samsung,iOS
+424,Jiya,Chana,9.13367E+11,bangalore,Karnataka,Vivo,Android
+425,Yashvi,Dar,3078025554,jaipur,Rajasthan,OnePlus,iOS
+426,Sana,Ramesh,9675382536,pune,Maharashtra,Samsung,Android
+427,Mahika,Kala,4667255946,Delhi,Delhi,Realme,Android
+428,Aaryahi,Chaudhuri,3233683010,Jaipur,Rajasthan,Samsung,iOS
+429,Sara,Vora,5461098198,Surat,Gujarat,Samsung,iOS
+430,Saira,Samra,9.18317E+11,Ahmedabad,Gujarat,Vivo,iOS
+431,Rania,Madan,9.10094E+11,kolkata,West Bengal,Samsung,iOS
+432,Madhup,Brahmbhatt,9.17898E+11,pune,Maharashtra,Apple,Android
+433,Lagan,Sundaram,793627612,Jaipur,Rajasthan,Samsung,iOS
+434,Jhanvi,Zachariah,8419135870,Surat,Gujarat,Xiaomi,Android
+435,Eva,Kara,3559713055,Jaipur,Rajasthan,Xiaomi,iOS
+436,Ira,Barman,668512849,Ahmedabad,Gujarat,Apple,Android
+437,Divij,Mammen,1451129705,jaipur,Rajasthan,OnePlus,Android
+438,Myra,Gala,9.17613E+11,Hyderabad,Telangana,Realme,iOS
+439,Vedika,Vig,2027315515,Delhi,Delhi,Xiaomi,Android
+440,Kabir,Chad,6682664536,chennai,Tamil Nadu,OnePlus,iOS
+441,Gokul,Tailor,9539985750,Hyderabad,Telangana,Apple,iOS
+442,Khushi,Mammen,9.16069E+11,Surat,Gujarat,Vivo,iOS
+443,Navya,Mangat,5616214221,Ahmedabad,Gujarat,Vivo,iOS
+444,Vidur,Gara,8231009885,kolkata,West Bengal,Samsung,Android
+445,Tarini,Wable,9.16968E+11,Jaipur,Rajasthan,Samsung,iOS
+446,Piya,Vaidya,9.19672E+11,Mumbai,Maharashtra,Apple,iOS
+447,Charvi,Saxena,9.13923E+11,chennai,Tamil Nadu,OnePlus,iOS
+448,Hazel,Dash,9.17012E+11,surat,Gujarat,Samsung,Android
+449,Miraan,Keer,9302515828,Bangalore,Karnataka,Xiaomi,Android
+450,Indranil,Swaminathan,9182026294,Pune,Maharashtra,Xiaomi,Android
+451,Vritika,Chand,3712671931,pune,Maharashtra,OnePlus,iOS
+452,Rania,Khalsa,1203390977,kolkata,West Bengal,Apple,iOS
+453,Neelofar,Dhawan,2048465498,Pune,Maharashtra,OnePlus,iOS
+454,Keya,Gour,3206899216,kolkata,West Bengal,OnePlus,Android
+455,Mishti,Bava,9.10048E+11,Hyderabad,Telangana,Realme,Android
+456,Raunak,Ben,6960175238,Hyderabad,Telangana,Samsung,iOS
+457,Kiaan,Baria,3151990913,surat,Gujarat,Vivo,iOS
+458,Uthkarsh,Rege,2983448561,Ahmedabad,Gujarat,Xiaomi,iOS
+459,Heer,Bains,3745672928,delhi,Delhi,OnePlus,Android
+460,Nirvi,Bhakta,9.10342E+11,delhi,Delhi,Apple,iOS
+461,Nirvaan,Sundaram,8744733311,Pune,Maharashtra,Xiaomi,Android
+462,Biju,Ravel,9.13862E+11,bangalore,Karnataka,Apple,Android
